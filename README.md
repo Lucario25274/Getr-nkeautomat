@@ -1,0 +1,2 @@
+# Getr-nkeautomat
+Schulaufgabe
