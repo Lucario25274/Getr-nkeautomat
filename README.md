@@ -1,2 +1,2 @@
-# Getr-nkeautomat
+# Getraenke-Automat
 Schulaufgabe
